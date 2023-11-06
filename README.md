@@ -4,6 +4,7 @@
       display: flex;
       flex-direction: column;
       align-items: center;
+      justify-content: center;
     }
   </style>
   <h1 class="title">Всем привет! Меня зовут Рита! 💖</h1>

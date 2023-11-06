@@ -9,8 +9,32 @@
             align-items: center;
             justify-content: center;
           }
+					.title {
+						font-size: 30px;
+					}
+					.techs {
+						justify-content: center;
+					}
+					.image {
+						width: 20px;
+						height: 20px;
+					}
         </style>
         <h1 class="title">Всем привет! Меня зовут Рита! 💖</h1>
+				<p class="text">Выпускница Яндекс.Прктикума</p>
+				<p class="text">Мой стек</p>
+				<div class="techs">
+					<img class="image" src="js.png">
+					<img class="image" src="html.png">
+					<img class="image" src="css.png">
+					<img class="image" src="react.png">
+					<img class="image" src="nodejs.png">
+					<img class="image" src="git.png">
+					<img class="image" src="mongodb.png">
+					<img class="image" src="vscode.png">
+					<img class="image" src="typescript.png">
+					<img class="image" src="redux.png">
+				<div>
       </div>
     </div>
 	</foreignObject>

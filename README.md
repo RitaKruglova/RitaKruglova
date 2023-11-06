@@ -1,11 +1,24 @@
-<img src="README.svg" width="800" height="400">
-<img src="js.png">
-<img src="html.png">
-<img src="css.png">
-<img src="react.png">
-<img src="nodejs.png">
-<img src="git.png">
-<img src="mongodb.png">
-<img src="vscode.png">
-<img src="typescript.png">
-<img src="redux.png">
+<div align="center">
+  <h1>Всем привет! Меня зовут Рита! 💖</h1>
+
+  <p>Выпускница Яндекс.Практикума</p>
+  <p>Хочу выучить алгоритмы и структуры данных</p>
+  <p>В настоящее время изучаю TypeScript, Redux, Jest на курсе React-разработчик от Яндекс.Практикума</p>
+  <p>Каждый день учусь чему-то новому</p>
+  <p>Мечтаю работать в опытной команде</p>
+
+  <h2>Мой стек:</h2>
+  <!-- Изображения технологий -->
+  <p>
+    <img src="js.png" alt="JavaScript" width="50" height="50"/>
+    <img src="html.png" alt="HTML5" width="50" height="50"/>
+    <img src="css.png" alt="CSS3" width="50" height="50"/>
+    <img src="react.png" alt="React" width="50" height="50"/>
+    <img src="nodejs.png" alt="Node.js" width="50" height="50"/>
+    <img src="git.png" alt="Git" width="50" height="50"/>
+    <img src="mongodb.png" alt="MongoDB" width="50" height="50"/>
+    <img src="vscode.png" alt="VSCode" width="50" height="50"/>
+    <img src="typescript.png" alt="TypeScript" width="50" height="50"/>
+    <img src="redux.png" alt="Redux" width="50" height="50"/>
+  </p>
+</div>

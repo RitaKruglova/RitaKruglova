@@ -28,18 +28,6 @@
 				<p class="text">Каждый день учусь чему-то новому</p>
 				<p class="text">Мечтаю работать в опытной команде</p>
 				<p class="text">Мой стек</p>
-				<div class="techs">
-					<img class="image" src="js.png">
-					<img class="image" src="html.png">
-					<img class="image" src="css.png">
-					<img class="image" src="react.png">
-					<img class="image" src="nodejs.png">
-					<img class="image" src="git.png">
-					<img class="image" src="mongodb.png">
-					<img class="image" src="vscode.png">
-					<img class="image" src="typescript.png">
-					<img class="image" src="redux.png">
-				</div>
       </div>
     </div>
 	</foreignObject>
